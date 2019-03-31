@@ -36,6 +36,12 @@ For exporting an app to iOS, Xcode must be installed on a Mac running macOS 10.1
 For a quick demo, an apk file has been attached to to the `extra-docs` branch at `Extras/GeoARgraphy.apk` which can be installed on an Android device. The apk compatibility cannot be guaranteed.
 
 
+## Screenshots
+
+<img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/germany-where.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/china-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/japan-found.jpg" width="32%">
+<img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/us-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/brazil-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/demo.jpg" width="32%">
+
+
 ## Built With
 
 * [Unity](http://www.unity.com/) - Cross-platform real-time game engine developed by Unity Technologies
