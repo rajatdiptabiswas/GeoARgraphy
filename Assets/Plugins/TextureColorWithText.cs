@@ -13,13 +13,13 @@ public class TextureColorWithText : MonoBehaviour
 
     private bool showText = false, someRandomCondition = true;
     private float currentTime = 0.0f, executeTime = 0.0f, timeToWait = 5.0f;
-    private int counter = 0, timeout = 0, timelevel = 0, timelimit = 80;
+    private int timeout = 0, timelevel = 0, timelimit = 80;
 
-    int tolerance = 10;
-    // bool locationFound = false;
+    int tolerance = 10; // defines the tolerance for RGB values
 
     string toDisplay = "Let's Begin";
 
+    // function to allow tolerance to RGB color guesses
     public bool IsInValidRange(Color32 guess, System.Drawing.Color check, int threshold)
     {
         if( check.R-threshold <= guess.r && check.R+threshold >= guess.r && 
@@ -40,7 +40,6 @@ public class TextureColorWithText : MonoBehaviour
 
         if (showText)
         {
-            // (Screen.width / 2) - (toDisplay.Length / 2)
             GUI.Label(new Rect(40, 40, 2000, 500), toDisplay);
 
             timeout++;
@@ -51,12 +50,6 @@ public class TextureColorWithText : MonoBehaviour
                 {
                     showText = false;
                     timelevel = 0;
-                    counter++;
-
-                    //if(locationFound) {
-                        // Goto next question
-                    //}
-                    
                 }
                 else timelevel++;
             }
@@ -102,16 +95,16 @@ public class TextureColorWithText : MonoBehaviour
     void Update()
     {
         if (!Input.GetMouseButton(0))
-        return;
+            return;
 
         RaycastHit hit;
         if (!Physics.Raycast(cam.ScreenPointToRay(Input.mousePosition), out hit))
-        return;
+            return;
 
         Renderer rend = hit.transform.GetComponent<Renderer>();
         MeshCollider meshCollider = hit.collider as MeshCollider;
         if (rend == null || rend.sharedMaterial == null || rend.sharedMaterial.mainTexture == null || meshCollider == null)
-        return;
+            return;
 
         Texture2D tex = rend.material.mainTexture as Texture2D;
         Vector2 pixelUV = hit.textureCoord;
@@ -141,7 +134,6 @@ public class TextureColorWithText : MonoBehaviour
 
             foreach (KeyValuePair<System.Drawing.Color, string> entry in dictionary)
             {
-                // do something with entry.Value or entry.Key
                 System.Drawing.Color checkColor = entry.Key;
     
                 if (IsInValidRange(c, checkColor, tolerance)) 
@@ -149,7 +141,6 @@ public class TextureColorWithText : MonoBehaviour
                     Debug.Log("Country is " + entry.Value);
                     toDisplay = String.Concat("You found ", entry.Value);
                     showText = true;
-                    // locationFound = true;
                     break;
                 }
                 // else

@@ -283,23 +283,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1570719992}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e5b3ac793be34cc2a0a8588837875fa, type: 3}
+  m_Script: {fileID: 11500000, guid: 945fb792115af4c69857466e1377ad77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 1474796306}
---- !u!114 &1570719996
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1570719992}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db88aa4310d78421f9df0843defad618, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cam: {fileID: 0}
+  countryIdx: 0
+  currentCountry: 
 --- !u!64 &1570719998
 MeshCollider:
   m_ObjectHideFlags: 0
