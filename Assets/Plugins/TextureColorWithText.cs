@@ -36,12 +36,12 @@ public class TextureColorWithText : MonoBehaviour
 
     void OnGUI()
     {   
-        // GUI.skin.label.fontSize = 20;
+        GUI.skin.label.fontSize = 70;
 
         if (showText)
         {
             // (Screen.width / 2) - (toDisplay.Length / 2)
-            GUI.Label(new Rect(20, 40, 250, 30), toDisplay);
+            GUI.Label(new Rect(40, 40, 2000, 500), toDisplay);
 
             timeout++;
             if (timeout == timelimit)
