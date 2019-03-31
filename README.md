@@ -1,6 +1,8 @@
 # GeoARgraphy
 An augmented reality geography guessing game made in Unity.
 
+*This was made at IIIT Allahabad for Hack in the North v4.0*
+
 
 
 ## Getting Started
@@ -31,6 +33,7 @@ Might need to install Android Studio with the Android SDK and JDK for exporting 
 
 For exporting an app to iOS, Xcode must be installed on a Mac running macOS 10.14 Mojave or later.
 
+For a quick demo, an apk file has been attached to to the `extra-docs` branch at `Extras/GeoARgraphy.apk` which can be installed on an Android device. The apk compatibility cannot be guaranteed.
 
 
 ## Built With
@@ -70,8 +73,6 @@ See also the list of [contributors](https://github.com/rajatdiptabiswas/GeoARgra
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
 
 ## Acknowledgments
 
