@@ -1,7 +1,7 @@
 # GeoARgraphy
 An augmented reality geography guessing game made in Unity.
 
-*This was made at IIIT Allahabad for Hack in the North v4.0*
+*This was made at **IIIT Allahabad** for **Hack in the North v4.0** by team **Array[] yaar;***
 
 
 
@@ -23,7 +23,7 @@ Open the project in Unity on your system.
 
 Things should load up smoothly. Any small warnings may be ignored.
 
-If Android or iOS support is required, Android Development and iOS Development plugins should be installed as well.
+If Android and iOS support is required, Android Development and iOS Development plugins should be installed as well.
 
 
 
