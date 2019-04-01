@@ -42,8 +42,8 @@ For a quick demo, an apk file has been attached to to the `extra-docs` branch at
 
 ## Screenshots
 
-<img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/germany-where.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/china-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/japan-found.jpg" width="32%">
-<img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/us-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/brazil-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/master/Screenshots/demo.jpg" width="32%">
+<img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/germany-where.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/china-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/japan-found.jpg" width="32%">
+<img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/us-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/brazil-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/demo.jpg" width="32%">
 
 
 ## Built With
