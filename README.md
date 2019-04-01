@@ -78,7 +78,7 @@ We used [GitHub](http://www.github.com/) for versioning. For the versions availa
 * **Rajat Dipta Biswas** - *Lead Developer* - [rajatdiptabiswas](https://github.com/rajatdiptabiswas)
 * **Ashish Gopal Hattimare** - *Developer and UX Designer* - [ashishgopalhattimare](https://github.com/ashishgopalhattimare)
 * **Akash Yadav** - *Tester and Designer* - [aky91](https://github.com/aky91)
-* **Saurabh** - *Developer and Game Desinger* - [UnixLoverSaurabh](https://github.com/UnixLoverSaurabh)
+* **Saurabh** - *Developer and Game Designer* - [UnixLoverSaurabh](https://github.com/UnixLoverSaurabh)
 
 See also the list of [contributors](https://github.com/rajatdiptabiswas/GeoARgraphy/contributors) who participated in this project.
 
