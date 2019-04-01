@@ -17,7 +17,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 Download or clone the repository onto your local machine.
 
-Download the latest version of [Unity](http://www.unity.com/) from [here](https://unity3d.com/get-unity/download). 
+Download the latest version of [Unity](http://www.unity.com/) from [here](https://unity3d.com/get-unity/download).
+
+Download the image needed for the AR Earth model to show up from [here](https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/map.jpeg).
 
 ### Installing
 
@@ -38,6 +40,8 @@ Might need to install Android Studio with the Android SDK and JDK for exporting 
 For exporting an app to iOS, Xcode must be installed on a Mac running macOS 10.14 Mojave or later.
 
 For a quick demo, an apk file has been attached to to the `extra-docs` branch at `Extras/GeoARgraphy.apk` which can be installed on an Android device. The apk compatibility cannot be guaranteed.
+
+To use the app, open [`map.jpeg`](https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/map.jpeg) on a screen other than the one that has the app installed. Point the app's camera interface onto [`map.jpeg`](https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/map.jpeg) and an augmented reality model should pop up. Make sure the image on the other screen is easily visible by the app and no reflection or smudges hinder the visibility of the image.
 
 
 ## Screenshots
