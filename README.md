@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="150" src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Extras/Logo.PNG">
+</p>
+
 # GeoARgraphy
 An augmented reality geography guessing game made in Unity.
 
