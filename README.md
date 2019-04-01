@@ -3,56 +3,9 @@ An augmented reality geography guessing game made in Unity.
 
 
 
-## Getting Started
+## About this branch
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-Download or clone the repository onto your local machine.
-
-Download the latest version of [Unity](http://www.unity.com/) from [here](https://unity3d.com/get-unity/download). 
-
-### Installing
-
-Install Unity. Make sure to choose and install the Vuforia Augmented Reality library plugin during or after the installation.
-
-Open the project in Unity on your system.
-
-Things should load up smoothly. Any small warnings may be ignored.
-
-If Android or iOS support is required, Android Development and iOS Development plugins should be installed as well.
-
-
-
-## Deployment
-
-Might need to install Android Studio with the Android SDK and JDK for exporting to an Android device.
-
-For exporting an app to iOS, Xcode must be installed on a Mac running macOS 10.14 Mojave or later.
-
-
-
-## Built With
-
-* [Unity](http://www.unity.com/) - Cross-platform real-time game engine developed by Unity Technologies
-* [Inkscape](https://inkscape.org) - Free and open-source vector graphics editor
-* [Boxy SVG](https://boxy-svg.com) - Online tool for editing SVG files
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) - Integrated development environment for C# from Microsoft
-* [Vuforia](https://developer.vuforia.com/) - Augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications
-* [Processing](http://processing.org/) - Open-source graphical library and integrated development environment/playground built for the electronic arts, new media art and visual design
-
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-
-## Versioning
-
-We used [GitHub](http://www.github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rajatdiptabiswas/GeoARgraphy/tags). 
+This branch contains extra files related to the project
 
 
 
@@ -70,16 +23,4 @@ See also the list of [contributors](https://github.com/rajatdiptabiswas/GeoARgra
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
-## Acknowledgments
-
-* [Unity3D Documentations](https://docs.unity3d.com/Manual/index.html)
-* [Unity Answers](https://answers.unity.com/index.html)
-* [Your-Vector-Maps.com](https://www.your-vector-maps.com/world/-144-free-vector-world-maps/?imagelist=wrld-bas)
-* Unity Asset Store - [Planet Earth Free by Headwards](https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399)
-* Unity Script Reference - [RaycastHit TextureCoord2](https://docs.unity3d.com/2017.3/Documentation/ScriptReference/RaycastHit-textureCoord2.html)
-* Unity Forum - [Find pixel colour under object position](https://forum.unity.com/threads/find-pixel-colour-under-object-position.327284/)
-* [StackOverflow](https://stackoverflow.com)
 
