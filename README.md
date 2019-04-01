@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Extras/Logo.PNG">
+  <img width="60%" src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Extras/Logo.PNG">
 </p>
 
 # GeoARgraphy
