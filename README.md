@@ -48,7 +48,12 @@ To use the app, open [`map.jpeg`](https://github.com/rajatdiptabiswas/GeoARgraph
 
 <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/germany-where.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/china-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/japan-found.jpg" width="32%">
 <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/us-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/brazil-found.jpg" width="32%"> <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/Screenshots/demo.jpg" width="32%">
-
+<p align="center">
+  <img src="https://github.com/rajatdiptabiswas/GeoARgraphy/blob/extra-docs/GIFs/low-color-high-framerate.gif" width="35%">
+</p>
+<p align="center">
+  <i>Demo of the initial version of the app</i>
+</p>
 
 ## Built With
 
