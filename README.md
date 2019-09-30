@@ -102,4 +102,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Unity Script Reference - [RaycastHit TextureCoord2](https://docs.unity3d.com/2017.3/Documentation/ScriptReference/RaycastHit-textureCoord2.html)
 * Unity Forum - [Find pixel colour under object position](https://forum.unity.com/threads/find-pixel-colour-under-object-position.327284/)
 * [StackOverflow](https://stackoverflow.com)
-
+* [Unity User Manual/Documentation](https://docs.unity3d.com/Manual/index.html)
+* [Learn with Unity](https://unity.com/learn)
+* [Concepts in Unity 3D Game Programming](https://www.eduonix.com/courses/Software-Development/game-development-in-unity-3d)
+* [Unity 3D Tutorials by Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg)
+* [Unity: From Master To Pro By Building 6 Games](https://www.udemy.com/course/create-a-2d-platformer-game-with-unity/?LSNPUBID=EvuWeir80nw&couponCode=UDMY10ALL&pmtag=ARH1C202&siteID=EvuWeir80nw-v6wq1Dnol1atLXHmfRBrHQ&utm_source=linkshare)
+* [Unity3d Concepts](https://www.udemy.com/course/draft/54139/?LSNPUBID=EvuWeir80nw&pmtag=ARH1C202&siteID=EvuWeir80nw-DzFdQ8T1ZZTjjS9T9KvQrg&utm_source=linkshare)
+* [Unity FPS Tutorial Series](https://www.youtube.com/watch?v=-FE4zfu-V-c&list=PL3eZfsRk6nF00HSZZJKgZ-HOoz3CJYXJu)
