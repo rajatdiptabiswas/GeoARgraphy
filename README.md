@@ -93,7 +93,7 @@ See also the list of [contributors](https://github.com/rajatdiptabiswas/GeoARgra
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgements
 
 * [Unity3D Documentations](https://docs.unity3d.com/Manual/index.html)
 * [Unity Answers](https://answers.unity.com/index.html)
